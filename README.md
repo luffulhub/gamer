@@ -26,7 +26,7 @@ This repo acts as a central place for the community to:
 2. 💬 Head over to our **[Github Discussions](../../discussions)** tab for read-only official info, guides.
 3. 🎉 **Join our Discord** community for all the fun: [Discord](https://lufful.com/gamer/discord)  
 
-- > 🐞 For **Technical Issue Reporting** visit our **[GitHub Issues](../../issues)** tab and creating a new issue.
+- > 🐞 For **Technical Issue Reporting** visit our **[GitHub Issues](../../issues)** tab and create a new issue.
 
 ---
 
