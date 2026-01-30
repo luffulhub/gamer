@@ -22,9 +22,9 @@ This repo acts as a central place for the community to:
 
 ## 🚀 Getting Started
 
-- 📖 Want to learn how to use the program?  
-    👉 Head over to the **[Discussions](../../discussions)** forum and check out the **Guides** category.
-
+1. ⬇️ **[Download and install](https://lufful.com/gamer/download)** the program.  
+2. 💬 Head over to our **[Discussions](../../discussions)** forum to get started!  
+3. 🎉 **Join our Discord** community for all the fun: [Discord](https://lufful.com/gamer/discord)  
 
 
 ## Legal Disclaimer
