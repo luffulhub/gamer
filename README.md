@@ -12,7 +12,7 @@ This is a **non-code**, community-driven repository dedicated to the **Lufful Ga
 
 This repo acts as a central place for the community to:
 
-- 🆘 **Get help** and ask questions *(mostly technical — for general discussion, please use Discord)*  
+- 🆘 **Get help** and ask questions *(for usage discussions, please use Discord)*  
 - 💡 **Suggest new ideas** and features  
 - 🐞 **Report bugs** and technical issues  
 - 📘 **Read usage guides** and documentation  
