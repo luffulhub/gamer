@@ -28,6 +28,8 @@ This repo acts as a central place for the community to:
 
 - > 🐞 For **Technical Issue Reporting** visit our **[GitHub Issues](../../issues)** tab and creating a new issue.
 
+---
+
 ## Legal Disclaimer
 This program does **not** interfere with, modify, or access any game files in any way.
 
