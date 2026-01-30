@@ -24,8 +24,8 @@ This repo acts as a central place for the community to:
 
 1. ⬇️ **[Download and install](https://lufful.com/gamer/download)** the program.  
 2. 💬 Head over to our Github **[Discussions](../../discussions)** for official info, guides.
-4. 🎉 **Join our Discord** community for all the fun: [Discord](https://lufful.com/gamer/discord)  
-5. 🐞 **Report issues or bugs** by visiting our **[GitHub Issues](../../issues)** tab and creating a new issue.
+3. 🎉 **Join our Discord** community for all the fun: [Discord](https://lufful.com/gamer/discord)  
+4. 🐞 **Report issues or bugs** by visiting our **[GitHub Issues](../../issues)** tab and creating a new issue.
 
 ## Legal Disclaimer
 This program does **not** interfere with, modify, or access any game files in any way.
