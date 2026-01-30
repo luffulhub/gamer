@@ -1,5 +1,7 @@
 # 🎮 Lufful Gamer
 
+> **Note:** aka **Lufful Roblox**
+
 Welcome to the **Lufful Gamer** community hub!
 
 This is a **non-code**, community-driven repository dedicated to the **Lufful Gamer** desktop application.
@@ -28,7 +30,7 @@ This repo acts as a central place for the community to:
 ## Legal Disclaimer
 This program does **not** interfere with, modify, or access any game files in any way.
 
-**Lufful Gamer** aka **Luffful Roblox** is not responsible for how its gaming bots are used. It is your responsibility (as user) to ensure that your use complies with the applicable game’s terms of service and usage policies.
+**Lufful Gamer** is not responsible for how its gaming bots are used. It is your responsibility (as user) to ensure that your use complies with the applicable game’s terms of service and usage policies.
 
 ---
 
