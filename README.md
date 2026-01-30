@@ -23,7 +23,7 @@ This repo acts as a central place for the community to:
 ## 🚀 Getting Started
 
 1. ⬇️ **[Download and install](https://lufful.com/gamer/download)** the program.  
-2. 💬 Head over to our **[Discussions](../../discussions)** forum to get started!  
+2. 💬 Head over to our Github **[Discussions](../../discussions)** for official info, guides, and issue reporting!  
 3. 🎉 **Join our Discord** community for all the fun: [Discord](https://lufful.com/gamer/discord)  
 
 
