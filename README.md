@@ -21,7 +21,7 @@ This repo acts as a central place for the community to:
 ## 🚀 Getting Started
 
 - 📖 Want to learn how to use the program?  
-  Head over to the **Discussions** section and check out the **Guides** category.
+    👉 Head over to the **[Discussions](../../discussions)** forum and check out the **Guides** category.
 
 
 
